@@ -1,5 +1,6 @@
-### Hi there 👋
-peekaboo
+### Welcome to my page!
+I'm a developer who has a focus on Unity with C# and welcomes a cluster of projects in a variety of languages.
+
 <!--
 **PhoebeMansfield/PhoebeMansfield** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
